@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coinsystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coinsystem</output-path>
+    <root id="archive" name="Coinsystem.jar">
+      <element id="module-output" name="Coinsystem" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
